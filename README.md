@@ -1,4 +1,4 @@
-# CMS7510 Assignment 1 SecureLabs File Encryption
+ SecureLabs File Encryption
 
 This submission implements the two required command-line programs and all
 three advanced features in the assignment rubric. The programs use the
@@ -9,7 +9,7 @@ with the original assignment archive using the paths in
 
 ## Required supplied files
 
-Keep the original assignment files in these locations:
+Keep the original files in these locations:
 
 ```text
 alice/alice_signing_key.pem
